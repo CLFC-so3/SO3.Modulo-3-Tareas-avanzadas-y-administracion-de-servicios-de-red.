@@ -47,6 +47,9 @@ sudo chmod 777 ip.sh
 
 video 3
 
+NO HACER PRACTICA EN SUDO, HACERLA EN EL USUARIO AL QUE SE LE VA A CONCEDER EL ACCESO
+
+
 fedora:
 Sudo dnf install -y openssh-server
 Sudo systemctl start sshd
@@ -73,4 +76,5 @@ pegar
 ctrl + o 
 enter 
 ctrl + x
+
 
