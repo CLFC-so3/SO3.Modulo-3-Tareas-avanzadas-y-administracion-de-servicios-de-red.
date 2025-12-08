@@ -1,6 +1,6 @@
 video 1
 
-Sudo nano etc/default/grub
+Sudo nano /etc/default/grub
 Grub_timeout = 20
 Sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 
@@ -73,3 +73,4 @@ pegar
 ctrl + o 
 enter 
 ctrl + x
+
